@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RoomTP" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Couleur principale -->
+        <item name="colorPrimary">#6200EE</item>
+        <!-- Couleur secondaire pour AppCompat -->
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+
+</resources>
